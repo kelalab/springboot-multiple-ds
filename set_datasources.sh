@@ -1,0 +1,2 @@
+export DATASOURCE_1=localhost:5433
+export DATASOURCE_2=localhost:5434
